@@ -1,4 +1,4 @@
-#C++ Systems & Trading Projects
+C++ Systems & Trading Projects
 
 A collection of C++ projects focused on systems programming, trading systems, data structures, performance, and low-latency software engineering.
 
