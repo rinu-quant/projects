@@ -21,6 +21,23 @@ Focus:
 
 "View Project" (./basic-limit-order-matching-engine/)
 
+2. Indexed Limit Order Book (V2)
+
+A C++ limit order book implementation using custom indexed binary heaps and a direct-address tracker to support efficient order cancellation.
+
+Focus:
+
+- Custom min-heap and max-heap
+- Price-time priority
+- Order ID tracking
+- Arbitrary order cancellation
+- Heap index maintenance
+- Partial fills
+- Efficient order removal
+
+"View Project" (./indexed-limit-order-book/)
+
+
 Roadmap
 
 Future projects and iterations may explore:
